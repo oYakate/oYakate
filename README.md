@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @oYakate
+- 👀 I’m interested in Discord bots, websites
+- 🌱 I’m currently learning Javascript
+-I like arco linux
