@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @oYakate
 - 👀 I make (try to make) Discord bots and websites
 - 🌱 I’m currently learning Javascript
-- 💀 I daily drive arch so im a nerd and stuff(pls no hate)
