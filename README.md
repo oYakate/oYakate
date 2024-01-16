@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @oYakate
-- 👀 I make (try to make) Discord bots and websites
-- 🌱 I’m currently learning Javascript
+![](https://github-readme-stats.vercel.app/api?username=oYakate&show_icons=true&theme=midnight-purple)
