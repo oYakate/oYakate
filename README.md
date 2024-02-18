@@ -5,6 +5,6 @@
 </div>
 
 
-** learning(trying to learn):**
+** learning(trying to learn): **
 - rust
 
