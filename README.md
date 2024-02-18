@@ -13,6 +13,7 @@ langs :
 - python
 - html + css + js
 - c (to some extent)
+- bash
 
 
 intrests:
