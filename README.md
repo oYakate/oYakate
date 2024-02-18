@@ -13,7 +13,9 @@ langs :
 - python
 - html + css + js
 - c (to some extent)
-intrest:
+
+
+intrests:
 - programming
 - crypto
 - foss
