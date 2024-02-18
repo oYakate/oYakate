@@ -3,10 +3,20 @@
   ![](https://github-readme-stats.vercel.app/api?username=oYakate&show_icons=true&theme=transparent)
 
  
+
+</div>
  
  learning(trying to learn):
 - rust
-</div>
+
+langs :
+- python
+- html + css + js
+- c (to some extent)
+intrest:
+- programming
+- crypto
+- foss
 
 
 
