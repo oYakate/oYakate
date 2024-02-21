@@ -18,8 +18,8 @@ langs :
 
 intrests:
 - programming
-- crypto
+- classical music
 - foss
-
+- anime
 
 
