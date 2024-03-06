@@ -7,13 +7,14 @@
 </div>
  
  learning(trying to learn):
-- rust
+- c++
 
 langs :
 - python
 - html + css + js
 - c (to some extent)
 - bash
+- basic rust
 
 
 intrests:
