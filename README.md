@@ -6,21 +6,3 @@
 
 </div>
  
- learning(trying to learn):
-- c++
-
-langs :
-- python
-- html + css + js
-- c (to some extent)
-- bash
-- basic rust
-
-
-intrests:
-- programming
-- classical music
-- foss
-- anime
-
-
