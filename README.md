@@ -1,3 +1,5 @@
+Idk I just live
+
 
 <details>
 <summary><b>wierd stats thingy</b></summary>
